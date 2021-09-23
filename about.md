@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
+title: Sobre mi 
 permalink: /about/
 ---
 
-Soy técnico de sistemas y un fiel militante de las tecnologías de la privacidad,  llevo al menos cuatro anos aprendiendo seguridad informática como autodidacta 
+Soy técnico de sistemas egresado de la Universidad Tecnologica de Parras Coahuila y un fiel militante de las tecnologías de la privacidad,  llevo al menos cuatro años aprendiendo seguridad informática como autodidacta y es la rama de la informatica que mas me llama la atencion, ahun que mis conocimientos son variados. 
 
 # Areas de conocimiento
 
@@ -17,4 +17,6 @@ Soy técnico de sistemas y un fiel militante de las tecnologías de la privacida
 * Conocimiento medio en programación web con Ruby on rails
 
 # Experiencia Universitaria 
-En la universidad hicimos al rededor de dos paginas una fue
+Hice al rededor de tres paginas webs como practica en toda mi estadía estudiantil, la mas importante para mi fue la de allinparras, la cual también monte en github.com ya que github facilita la subida de tu pagina o en otras palabras mas técnicas actuá como hosting web gratuito,  esta pagina ya no se encuentra arriba. Allinparras de que se trataba ? Bueno esta pagina la la hicimos teniendo en cuenta que teníamos que tomar en cuenta lo innovador, tratamos de poner todas las micro empresas o negocios locales en una web para de esta manera dar a conocer a todos los turistas cada lugar de los cuales es difícil de conocer, esta pagina actuaba como una landding page sin embargo le implementamos para una de las tiendas que vendía gorditas un menú donde se podría hacer compra de cada producto.  Esta pagina estuvo echa en html, css, y php.  
+
+En la actualidad he solamente desarrollado al rededor de tres blogs en Ruby on rails para practica y adquisición de conocimientos en programación 
