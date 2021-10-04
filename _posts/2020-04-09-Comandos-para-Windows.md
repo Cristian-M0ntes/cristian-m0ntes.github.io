@@ -14,3 +14,18 @@ wevtutil cl Ejemplo
 #en powershell 
 wevtutil el | Foreach-Object {wevtutil cl "$_"}
 
+#VNC
+reg query "HKCU\Software\ORL\WinVNC3\Password"
+#Windows Autologin
+reg query "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"
+#SNMP Parameters
+reg query "HKLM\SYSTEM\Crrent\ControlSet\Services\SNMP"
+#Putty clear text proxy credentials
+reg query "HKCU\Software\SimonTatham\PuTTY\Sessions"
+#Search the reistry - copy (pipe) to the clipboard 
+reg query HKLM /f password /t REG_SZ [clip]
+reg query HKCU /f password /t REG_SZ [clip]
+#Directory permissions 
+cacls
+icacls
+
