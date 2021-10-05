@@ -9,7 +9,7 @@ Soy técnico de sistemas egresado de la Universidad Tecnologica de Parras Coahui
 # Areas de conocimiento
 
 
-    • Conocimiento básico en Diseño 3D (3D max y Blender)
+    # Conocimiento básico en Diseño 3D (3D max y Blender).
 Mi conocimiento abarca el nivel básico en estos programas ya que lo que he echo en estos programas solo ha sido una casa de INFONAVIT y un funko con movimiento. 
 
     • Conocimiento básico en Producción Audiovisual Con Olive
