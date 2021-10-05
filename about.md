@@ -35,7 +35,7 @@ Una de las ramas que mas me llama la atención y en la cual he estudiado como au
 
 • Conocimiento básico en Programación web
 
-Tengo un conocimiento creo yo que básico en programación donde he aprendido sobre lo básico de css html , php pero actualmente me he orientado al aprendizaje de Ruby on Rails donde he estado programando proyectos de la universidad y realizado ya varios blogs-sites personales para la adquisición de conocimiento como lo es http://cristian-m0ntes.github.io. 
+Tengo un conocimiento creo yo que básico en programación donde he aprendido sobre lo básico de css html , php pero actualmente me he orientado al aprendizaje de Ruby on Rails donde he estado programando proyectos de la universidad y realizado ya varios blogs-sites personales para la adquisición de conocimiento.
 
 
 
