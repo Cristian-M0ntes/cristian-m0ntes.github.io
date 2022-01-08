@@ -4,6 +4,7 @@ title: Sobre mi
 permalink: /about/
 ---
 
+<div style="text-align: justify">
 Soy técnico de sistemas egresado de la Universidad Tecnologica de Parras Coahuila y un fiel militante de las tecnologías de la privacidad,  llevo al menos cuatro años aprendiendo seguridad informática como autodidacta y es la rama de la informatica que mas me llama la atencion, ahun que mis conocimientos son variados. 
 
 
@@ -62,3 +63,4 @@ Bachillerato : Escuela de bachilleres Juan Agustin De Espinoza.
 HISTORIAL LABORAL 
 
 Durante cinco años de 2014 al 2019 trabaje por temporadas en una empresa de landscaping en Cape Cod, Massachussets (paisajismo) donde desarrolle habilidades de liderazgo, me ayudo a practicar mi ingles, obtuve habilidades de jardinería de irrigación, manejo de maquinaria pesada y del trabajo en equipo, me desarrolle en un habito de trabajo en equipo con diferentes culturas.
+</div>
