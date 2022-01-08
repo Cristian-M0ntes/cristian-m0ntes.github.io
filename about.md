@@ -60,4 +60,5 @@ HISTORIAL ACADÉMICO
 Bachillerato : Escuela de bachilleres Juan Agustin De Espinoza.
 
 HISTORIAL LABORAL 
+
 Durante cinco años de 2014 al 2019 trabaje por temporadas en una empresa de landscaping en Cape Cod, Massachussets (paisajismo) donde desarrolle habilidades de liderazgo, me ayudo a practicar mi ingles, obtuve habilidades de jardinería de irrigación, manejo de maquinaria pesada y del trabajo en equipo, me desarrolle en un habito de trabajo en equipo con diferentes culturas.
