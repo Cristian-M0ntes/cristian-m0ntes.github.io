@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div style="text-align: justify">
-Soy técnico de sistemas egresado de la Universidad Tecnologica de Parras Coahuila y un fiel militante de las tecnologías de la privacidad,  llevo al menos cuatro años aprendiendo seguridad informática como autodidacta y es la rama de la informatica que mas me llama la atencion, ahun que mis conocimientos son variados. 
+Soy técnico de sistemas egresado de la Universidad Tecnologica de Parras Coahuila y un fiel militante de las tecnologías de la privacidad,  llevo al menos cuatro años aprendiendo seguridad informática como autodidacta y es la rama de la informatica que mas me llama la atencion, aun que mis conocimientos son variados. 
 </div>
 <br> 
 
@@ -31,7 +31,7 @@ Lo que conozco en Olive 2 es casi todo el programa en el cual he trabajado edita
 Docker container 
 
 <div style="text-align: justify">
-Conozco creo que lo básico sobre el funcionamiento de docker container puedo montar un contenedor para programar en ruby on rails usando docker compose. O también montar servidores o cualquier tipo de maquina virtual para diferentes usos y mayor protección para los servicios que se necesitan correr.  
+Conocimiento basico sobre el funcionamiento de docker container puedo montar un contenedor para programar en ruby on rails usando docker compose. O también montar servidores o cualquier tipo de maquina virtual para diferentes usos y mayor protección para los servicios que se necesitan correr.  
 </div>
 <br> 
 
@@ -39,7 +39,7 @@ Conozco creo que lo básico sobre el funcionamiento de docker container puedo mo
 Redes informáticas
 
 <div style="text-align: justify">
-En redes informáticas he aprendido sobre la configuración de LANs WLANs VLAN’s tanto en la universidad usando Cisco Packet Tracer como usando routers, switchs, pcs en su forma física.
+Conocimiento sobre la configuración de LANs WLANs VLAN’s tanto en la universidad usando Cisco Packet Tracer como usando routers, switchs, pcs en su forma física.
 </div>
 <br> 
 
@@ -47,7 +47,7 @@ En redes informáticas he aprendido sobre la configuración de LANs WLANs VLAN�
 Distribuciones Linux, Windows, MacOS
 
 <div style="text-align: justify">
-Puedo manejar con facilidad cualquier sistema operativo, como también les puedo dar soporte técnico a cualquier computadora con cualquier Sistema Operativo o puedo configurar y mejorar la seguridad de las maquinas para de alguna manera evitar riesgos futuros. 
+Manejo cualquier sistema operativo, como también doy soporte técnico a cualquier computadora con cualquier Sistema Operativ.Configuracion y mejora de la seguridad de las maquinas para de alguna manera evitar riesgos a futuro. 
 </div>
 <br> 
 
@@ -56,7 +56,7 @@ Puedo manejar con facilidad cualquier sistema operativo, como también les puedo
 Programación Web 
 
 <div style="text-align: justify">
-Tengo un conocimiento creo yo que básico en programación donde he aprendido sobre lo básico de html, php, (css, bootsrap, flexboxgrid, MDB)   pero actualmente me he orientado al aprendizaje de Ruby on Rails donde he estado programando proyectos de la universidad y realizado ya varios blogs-sites personales para la adquisición de conocimiento. (Ruby es un lenguaje de programación orientado a objetos demasiado potente y Rails es su framework web que sirve para el desarrollo web se sitios como lo es python con su framework Django).
+Conocimientos básicos en programación (web html, php, css, bootsrap, flexboxgrid, MDB), actualmente me he orientado al aprendizaje de Ruby on Rails donde he estado programando proyectos de la universidad y realizado ya varios blogs-sites personales para la adquisición de conocimiento. (Ruby es un lenguaje de programación orientado a objetos demasiado potente y Rails es su framework web que sirve para el desarrollo web se sitios como lo es python con su framework Django).
 </div>
 <br> 
 
